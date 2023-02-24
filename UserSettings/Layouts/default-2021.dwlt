@@ -300,6 +300,7 @@ MonoBehaviour:
     y: 469
     width: 1030
     height: 210
+
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -325,7 +326,6 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Models/player
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\projects\gamingdev\2.5D-Platformer-Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
